@@ -82,7 +82,7 @@ Community email list subscription request: https://lists.nasa.gov/mailman/listin
 Ensure the following software are installed: Make, CMake, GCC, and Git.  To setup the cFS BUNDLE directly from the latest set of interoperable repositories:
 
     git clone https://github.com/liyong2123/cFSHERMES.git
-    cd cFS
+    cd cFSHERMES
     git submodule init
     git submodule update
 
